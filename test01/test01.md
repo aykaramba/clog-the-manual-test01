@@ -5,7 +5,7 @@ This is an image:
 
 This is a video:
 
-[![Watch the video](src/01.jpg)](src/01.mp4)
+[![Watch the video](src/01.jpg)](https://www.youtube.com/watch?v=jCd6XfWLZsg)
 
 Inserted text via browser:
 
