@@ -4,7 +4,7 @@ This is an image using github markdown:
 
 This is a resized image using html: 
 
-<img src="https://github.com/aykaramba/clog-the-manual-test01/blob/main/test01/src/01.jpg)" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/aykaramba/clog-the-manual-test01/blob/main/test01/src/01.jpg" alt="Alt Text" width="300" height="200">
 
 
 This is a video:
