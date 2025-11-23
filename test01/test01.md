@@ -27,7 +27,9 @@ Embed video from youtube:
 
 [![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
 
+Video file uploaded via web interface: 
 
+https://github.com/user-attachments/assets/44ec673d-21b0-4bd8-a5da-42a424dc3674
 
 
 
