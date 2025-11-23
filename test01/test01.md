@@ -19,5 +19,11 @@ Another video test:
 
 [![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
 
+Attempt to embed video from github repository zzzz:
+
+[![Watch the video](https://rawcdn.githack.com/aykaramba/clog-the-manual-test01/9899ba07b83a7f849b9899c3068d44219496fd61/test01/src/01.jpg)](https://rawcdn.githack.com/aykaramba/clog-the-manual-test01/9899ba07b83a7f849b9899c3068d44219496fd61/test01/src/01.mp4)
+
+
+
 
 
