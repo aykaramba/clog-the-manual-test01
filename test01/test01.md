@@ -9,4 +9,7 @@ This is a video:
 
 Inserted text via browser:
 
+[![Watch the video](src/01.jpg)](
+https://raw.githack.com/?url=https%3A%2F%2Fgithub.com%2Faykaramba%2Fclog-the-manual-test01%2Fblob%2Fmain%2Ftest01%2Fsrc%2F01.mp4)
+
 
